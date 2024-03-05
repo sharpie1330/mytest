@@ -12,3 +12,6 @@
 
 테스트용 텍스트 추가
 -> feature2 PR후 머지 전에 feature2에서 파생된 브랜치 feature3를 이어서 작업한 경우
+
+git rebase feature1 main
+-> feature1에 main을 이어붙이겠다는 소리...
