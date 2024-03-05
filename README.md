@@ -9,3 +9,6 @@
 7. 내 브랜치 동기화 git rebase upstream/sharpie1330
 8. git push origin sharpie1330
 9. 반복
+
+테스트용 텍스트 추가
+-> feature2 PR후 머지 전에 feature2에서 파생된 브랜치 feature3를 이어서 작업한 경우
